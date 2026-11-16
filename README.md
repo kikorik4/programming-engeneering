@@ -1,5 +1,7 @@
 # Отчет по настройке SSH-доступа к GitHub
 
+**Ссылка на репозиторий:** https://github.com/kikorik4/programming-engineering
+
 ## 1. Генерация ключей
 Была сгенерирована пара ключей типа ed25519 с защитой passphrase.
 Команда: `ssh-keygen -t ed25519 -C "novahuaweidns@gmail.com"`
